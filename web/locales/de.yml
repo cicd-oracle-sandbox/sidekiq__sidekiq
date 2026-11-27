@@ -1,0 +1,111 @@
+# elements like %{queue} are variables and should not be translated
+de:
+  LanguageName: Deutsch
+  Actions: Aktionen
+  AddToQueue: In Warteschlange einreihen
+  AddAllToQueue: Alle in Warteschlange einreihen
+  AreYouSure: Bist du sicher?
+  AreYouSureDeleteJob: Möchtest du diesen Job wirklich löschen?
+  AreYouSureDeleteQueue: Möchtest du %{queue} wirklich löschen?
+  Arguments: Argumente
+  BackToApp: Zurück zur Anwendung
+  Busy: Beschäftigt
+  Class: Klasse
+  Connections: Verbindungen
+  CreatedAt: Erstellt
+  CurrentMessagesInQueue: Aktuelle Nachrichten in <span class='title'>%{queue}</span>
+  Dashboard: Dashboard
+  Dead: Tot
+  DeadJobs: Gestorbene Jobs
+  Delete: Löschen
+  DeleteAll: Alle löschen
+  Deploy: Deployment
+  Enqueued: In der Warteschlange
+  Error: Fehler
+  ErrorBacktrace: Fehlerbericht
+  ErrorClass: Fehlerklasse
+  ErrorMessage: Fehlernachricht
+  ExecutionTime: Ausführungszeit
+  Extras: Extras
+  Failed: Fehlgeschlagen
+  Failure: Fehlgeschlagen
+  Failures: Ausfälle
+  GoBack: ← Zurück
+  History: Verlauf
+  Job: Job
+  Jobs: Jobs
+  Kill: Vernichten
+  KillAll: Alle vernichten
+  Language: Sprache
+  LastDashboardUpdateTemplateLiteral: "Letzte Abfrage: Verarbeitet: PROCESSED_COUNT. Fehlgeschlagen: FAILED_COUNT."
+  LastRetry: Letzter Versuch
+  Latency: Latenz
+  LivePoll: Echtzeitabfrage
+  MemoryUsage: RAM-Nutzung
+  Name: Name
+  Namespace: Namensraum
+  NextRetry: Nächster Versuch
+  NoDeadJobsFound: Keine toten Jobs gefunden
+  NoRetriesFound: Keine erneuten Versuche gefunden
+  NoScheduledFound: Keine geplanten Jobs gefunden
+  NotYetEnqueued: Noch nicht in der Warteschlange
+  OneMonth: 1 Monat
+  OneWeek: 1 Woche
+  OriginallyFailed: Ursprünglich fehlgeschlagen
+  Pause: Pausieren
+  Paused: Pausiert
+  PeakMemoryUsage: Maximale RAM-Nutzung
+  Plugins: Erweiterungen
+  PollingInterval: Abfrageintervall
+  PollingIntervalMilliseconds: Abfrageintervall in Millisekunden
+  Process: Prozess
+  Processed: Verarbeitet
+  Processes: Prozesse
+  Queue: Warteschlange
+  Queues: Warteschlangen
+  Quiet: Leise
+  QuietAll: Alle leise
+  Realtime: Echtzeit
+  Retries: Versuche
+  RetryAll: Alle erneut versuchen
+  RetryCount: Anzahl der Versuche
+  RetryNow: Jetzt erneut versuchen
+  Scheduled: Geplant
+  ScheduledJobs: Jobs in der Warteschlange
+  Seconds: Sekunden
+  ShowAll: Alle anzeigen
+  SixMonths: 6 Monate
+  Size: Größe
+  Started: Gestartet
+  Status: Status
+  Stop: Stopp
+  StopAll: Alle stoppen
+  StopPolling: Abfrage stoppen
+  Success: Erfolgreich
+  Summary: Zusammenfassung
+  Thread: Thread
+  Threads: Threads
+  ThreeMonths: 3 Monate
+  Time: Zeit
+  Unpause: Fortsetzen
+  Uptime: Laufzeit (Tage)
+  Utilization: Auslastung
+  Version: Version
+  When: Wann
+  Worker: Arbeiter
+  active: aktiv
+  idle: untätig
+  Metrics: Metriken
+  NoDataFound: Keine Daten gefunden
+  TotalExecutionTime: Gesamte Ausführungszeit
+  AvgExecutionTime: Durchschnittliche Ausführungszeit
+  Context: Kontext
+  NoJobMetricsFound: Keine aktuellen Job-Metriken gefunden
+  Filter: Filter
+  AnyJobContent: Beliebiger Job-Inhalt
+  Profiles: Profile
+  Data: Daten
+  View: Anzeigen
+  Token: Token
+  ElapsedTime: Verstrichene Zeit
+  ClickToLearnMore: Klicke hier, um mehr zu erfahren

@@ -1,0 +1,4 @@
+upstream: https://github.com/sidekiq/sidekiq
+commit: 7976065b7e27efbb9a1f7fa842d1e74adcf2103c
+license: LGPL-3.0, LICENSE.txt read 2026-11-27
+Unmodified snapshot except that .github/workflows was emptied.
